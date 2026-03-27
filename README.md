@@ -1,4 +1,5 @@
 # Homework Done
+You can see service working in grafana_working.png
 # Homework
 Docker lecture repository at [Avito's Analytics Academy](https://avito-analytics-academy.ru/) Data Science course.
 
